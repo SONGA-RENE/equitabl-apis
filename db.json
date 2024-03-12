@@ -84205,5 +84205,46 @@
             "Job Titles": "Vice President of Sales",
             "Market pay range": "90000 - 150000"
         }
+    ],
+    "Job": [{
+            "ID": 1,
+            "JobTitle": "Sonair",
+            "JobLevel": "614",
+            "Department": "Marketing",
+            "ReportingManager": "Nathanial Girodin",
+            "Skills": "Employee Engagement, Video Editing, Data Visualization, Sustainable Event Planning, Mobile App Security,",
+            "JobCreator": "Benjamen Rief",
+            "Description": "Hallucinogen abuse with hallucinogen-induced psychotic disorder with hallucinations"
+        },
+        {
+            "ID": 2,
+            "JobTitle": "Transcof",
+            "JobLevel": "44",
+            "Department": "Training",
+            "ReportingManager": "Willette Sheerman",
+            "Skills": "Testing Types, Employee Engagement, Video Editing, Data Visualization, Sustainable Event Planning, Mobile App Security",
+            "JobCreator": "Foss Greste",
+            "Description": "Nondisplaced spiral fracture of shaft of ulna, unspecified arm, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+        },
+        {
+            "ID": 3,
+            "JobTitle": "Regrant",
+            "JobLevel": "346",
+            "Department": "Sales",
+            "ReportingManager": "Galvin Grundell",
+            "Skills": "Epoxy, Employee Engagement, Video Editing, Data Visualization, Sustainable Event Planning, Mobile App Security",
+            "JobCreator": "Kirbee Heaffey",
+            "Description": "Other contact with cow, initial encounter"
+        },
+        {
+            "ID": 4,
+            "JobTitle": "Sonair",
+            "JobLevel": "325",
+            "Department": "Support",
+            "ReportingManager": "Jandy Maciaszek",
+            "Skills": "Pthon, Employee Engagement, Video Editing, Data Visualization, Sustainable Event Planning, Mobile App Security",
+            "JobCreator": "Adrianne D'Agostini",
+            "Description": "Unspecified injury at T1 level of thoracic spinal cord, subsequent encounter"
+        }
     ]
 }

@@ -84188,7 +84188,7 @@
       "Market pay range": "180000 - 300000"
     },
     {
-      "Job Titles": "Vice President of Innovation",
+      "Job Titles": "VP President of Innovation",
       "Market pay range": "81000 - 135000"
     },
     {
@@ -84217,7 +84217,8 @@
       "reportingManager": "Jocelyn Villegas",
       "yearsOfExperience": "4",
       "jobCreator": "Hamsa",
-      "skills": ["Data Visualization", "Leadership", "Public Speaking "]
+      "skills": ["Data Visualization", "Leadership", "Public Speaking "],
+      "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
     }
   ]
 }

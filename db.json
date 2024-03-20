@@ -84202,9 +84202,64 @@
         }
     ],
     "Job": [{
+        "id": "922e34el7-b37c-40b0-b6c6-dd559c413488",
+        "jobTitle": "Business Analyst",
+        "jobLevel": "3",
+        "department": "Business Development",
+        "reportingManager": "Jocelyn Villegas",
+        "yearsOfExperience": "4",
+        "jobCreator": "Hamsa",
+        "skills": ["Data Visualization", "Leadership", "Public Speaking "],
+        "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
+    },
+    {
+        "id": "922e34uie7-b37c-40b0-b6c789-dd559c413488",
+        "jobTitle": "HR director",
+        "jobLevel": "5",
+        "department": "Business Development",
+        "reportingManager": "Jocelyn Villegas",
+        "yearsOfExperience": "4",
+        "jobCreator": "Hamsa",
+        "skills": ["Data Visualization", "Leadership", "Public Speaking "],
+        "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
+    },
+    {
+        "id": "922e3rt4e7-b37c-40b0-b6c6-dd559c413488",
+        "jobTitle": "Business Analyst",
+        "jobLevel": "3",
+        "department": "Business Development",
+        "reportingManager": "Jocelyn Villegas",
+        "yearsOfExperience": "4",
+        "jobCreator": "Hamsa",
+        "skills": ["Data Visualization", "Leadership", "Public Speaking "],
+        "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
+    },
+    {
+        "id": "922e34eee7-b37c-40b0-b6c789-dd559c413488",
+        "jobTitle": "HR director",
+        "jobLevel": "5",
+        "department": "Business Development",
+        "reportingManager": "Jocelyn Villegas",
+        "yearsOfExperience": "4",
+        "jobCreator": "Hamsa",
+        "skills": ["Data Visualization", "Leadership", "Public Speaking "],
+        "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
+    },
+    {
         "id": "922e34e7-b37c-40b0-b6c6-dd559c413488",
         "jobTitle": "Business Analyst",
         "jobLevel": "3",
+        "department": "Business Development",
+        "reportingManager": "Jocelyn Villegas",
+        "yearsOfExperience": "4",
+        "jobCreator": "Hamsa",
+        "skills": ["Data Visualization", "Leadership", "Public Speaking "],
+        "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
+    },
+    {
+        "id": "922e34e7-b37c-40b0-b6c789-dd559c413488",
+        "jobTitle": "HR director",
+        "jobLevel": "5",
         "department": "Business Development",
         "reportingManager": "Jocelyn Villegas",
         "yearsOfExperience": "4",

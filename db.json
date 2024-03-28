@@ -84213,54 +84213,7 @@
         "skills": ["Data Visualization", "Leadership", "Public Speaking "],
         "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
     },
-    {
-        "id": "922e34uie7-b37c-40b0-b6c789-dd559c413488",
-        "jobTitle": "HR director",
-        "jobLevel": "5",
-        "department": "Business Development",
-        "reportingManager": "Jocelyn Villegas",
-        "yearsOfExperience": "4",
-        "jobCreator": "Hamsa",
-        "location":"Jakarta, Indonesia",
-        "skills": ["Data Visualization", "Leadership", "Public Speaking "],
-        "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
-    },
-    {
-        "id": "922e3rt4e7-b37c-40b0-b6c6-dd559c413488",
-        "jobTitle": "Business Analyst",
-        "jobLevel": "3",
-        "department": "Business Development",
-        "reportingManager": "Jocelyn Villegas",
-        "yearsOfExperience": "4",
-        "jobCreator": "Hamsa",
-        "location":"Jakarta, Indonesia",
-        "skills": ["Data Visualization", "Leadership", "Public Speaking "],
-        "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
-    },
-    {
-        "id": "922e34eee7-b37c-40b0-b6c789-dd559c413488",
-        "jobTitle": "HR director",
-        "jobLevel": "5",
-        "department": "Business Development",
-        "reportingManager": "Jocelyn Villegas",
-        "yearsOfExperience": "4",
-        "jobCreator": "Hamsa",
-        "location":"Bandug, Indonesia",
-        "skills": ["Data Visualization", "Leadership", "Public Speaking "],
-        "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
-    },
-    {
-        "id": "922e34e7-b37c-40b0-b6c6-dd559c413488",
-        "jobTitle": "Business Analyst",
-        "jobLevel": "3",
-        "department": "Business Development",
-        "reportingManager": "Jocelyn Villegas",
-        "yearsOfExperience": "4",
-        "jobCreator": "Hamsa",
-        "location":"Jakarta, Indonesia",
-        "skills": ["Data Visualization", "Leadership", "Public Speaking "],
-        "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
-    },
+   
     {
         "id": "922e34e7-b37c-40b0-b6c789-dd559c413488",
         "jobTitle": "HR director",
@@ -84269,8 +84222,9 @@
         "reportingManager": "Jocelyn Villegas",
         "yearsOfExperience": "4",
         "jobCreator": "Hamsa",
-        "location":"Bandug, Indonesia",
+        "location": "Bandug, Indonesia",
         "skills": ["Data Visualization", "Leadership", "Public Speaking "],
-        "Description": " A Business Analyst acts as a liaison between business stakeholders and the technical team, analyzing business processes, identifying needs, and providing solutions to help achieve business objectives."
-    }]
+        "Description": "Job Description: HR Director\n\nResponsibilities:\n\nStrategic HR Planning: Develop and implement HR strategies and initiatives aligned with the overall business strategy.\nTalent Acquisition: Oversee the recruitment process, including sourcing, interviewing, and hiring candidates.\nEmployee Relations: Manage employee relations issues, including conflict resolution, disciplinary actions, and grievance handling.\nPerformance Management: Establish performance management processes to ensure employees are motivated, engaged, and meeting performance expectations.\nTraining and Development: Identify training needs and develop training programs to enhance employee skills and capabilities.\nCompensation and Benefits: Develop and administer competitive compensation and benefits programs to attract and retain top talent.\nHR Policies and Procedures: Develop and implement HR policies and procedures in compliance with legal and regulatory requirements.\nHR Metrics and Reporting: Track HR metrics and generate reports to assess the effectiveness of HR programs and initiatives.\nEmployee Engagement: Implement initiatives to foster a positive work culture and improve employee engagement and morale.\nHR Compliance: Ensure compliance with labor laws, regulations, and industry standards.\n\nQualifications:\n\nEducation: Bachelor's degree in Human Resources, Business Administration, or related field. A master's degree in HR or MBA may be preferred.\nExperience: Several years of progressively responsible experience in HR management, with demonstrated experience in strategic HR planning and execution.\nLeadership Skills: Strong leadership and management skills with the ability to lead and develop a team of HR professionals.\nCommunication: Excellent communication and interpersonal skills with the ability to effectively interact with employees at all levels of the organization.\nProblem-Solving: Strong problem-solving and decision-making skills with the ability to address complex HR issues and challenges.\nEthical Conduct: High ethical standards and integrity with a commitment to maintaining confidentiality and protecting employee privacy.\nBusiness Acumen: Solid understanding of business operations and financial principles with the ability to align HR initiatives with business objectives.\nHR Certification: Professional certification such as PHR (Professional in Human Resources) or SPHR (Senior Professional in Human Resources) may be preferred."
+      }
+      ]
 }
